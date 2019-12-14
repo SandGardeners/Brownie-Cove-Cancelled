@@ -5,6 +5,7 @@
 > You will need the following assets for the code to compile:
 > - [Demigiant's DOTween Pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
 > - [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570)
+> - [Sophie Houden's Palutte](https://sophieh.itch.io/sophies-systems)
   
 # [✈️Brownie Cove Cancelled - LD43✈️](https://sandgardeners.itch.io/brownie-cove-cancelled)
 
